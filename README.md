@@ -5,6 +5,7 @@ Monster Dodger is a simple 2D game where the player's objective is to dodge mons
 
 ---------------------------------------------------------------------------------------
 ![1 3](https://github.com/saahen-sriyan-mishra/Monster-Dodger-UNITY/assets/139043263/547e08e5-6314-46b9-95d8-0d18268bd1c2)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaahen-sriyan-mishra%2FMonster-Dodger-UNITY.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaahen-sriyan-mishra%2FMonster-Dodger-UNITY?ref=badge_shield)
 -------------------------------------------------------
 
 ## Gameplay
@@ -42,3 +43,7 @@ The project is structured as follows:
 - Clone the repository or download the .zip file
 - Ensure that Unity Engine and Visual Studio is present in the system.
 - Go to Scenes in Assets folder Click on MainMenu and press play to play the game.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaahen-sriyan-mishra%2FMonster-Dodger-UNITY.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaahen-sriyan-mishra%2FMonster-Dodger-UNITY?ref=badge_large)
